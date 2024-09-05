@@ -1,6 +1,6 @@
-Big O notation is a way to describe the efficiency of an algorithm, specifically how its runtime or space 
-requirements grow as the size of the input increases. It helps you understand the worst-case scenario for 
-how long an algorithm will take to run or how much memory it will use.
+# Big O notation is a way to describe the efficiency of an algorithm, specifically how its runtime or space 
+# requirements grow as the size of the input increases. It helps you understand the worst-case scenario for 
+# how long an algorithm will take to run or how much memory it will use.
 
 Key Points:
 Focus on the Largest Term: Big O notation ignores constants and lower-order terms because, for large inputs, 
