@@ -29,8 +29,8 @@ class Solution:
 
 
 class Test(unittest.TestCase):
-    dataT = [('aab')]
-    dataF = [('abc')]
+    dataT = [('aab'),('11223'),('aabb')]
+    dataF = [('abc'),('1234'),('aabc')]
 
     def test_palindromePermutation(self):
         solution = Solution()
